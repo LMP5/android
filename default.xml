@@ -343,44 +343,36 @@
   <project path="external/zip" name="CyanogenMod/android_external_zip" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
-  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" groups="pdk" />
-  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
-  <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
-  <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
-  <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" groups="pdk" />
-  <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
-  <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
-  <project path="frameworks/minikin" name="CyanogenMod/android_frameworks_minikin" groups="pdk-cw-fs" />
-  <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
-  <project path="frameworks/multidex" name="CyanogenMod/android_frameworks_multidex" groups="pdk-cw-fs" />
-  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" groups="pdk" />
-  <project path="frameworks/opt/bitmap" name="CyanogenMod/android_frameworks_opt_bitmap" />
-  <project path="frameworks/opt/bluetooth" name="CyanogenMod/android_frameworks_opt_bluetooth" groups="pdk-cw-fs" />
-  <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
-  <project path="frameworks/opt/carddav" name="CyanogenMod/android_frameworks_opt_carddav" />
-  <project path="frameworks/opt/chips" name="CyanogenMod/android_frameworks_opt_chips" groups="pdk-cw-fs" />
-  <project path="frameworks/opt/colorpicker" name="CyanogenMod/android_frameworks_opt_colorpicker" />
-  <project path="frameworks/opt/datetimepicker" name="CyanogenMod/android_frameworks_opt_datetimepicker" />
-  <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
-  <project path="frameworks/opt/hardware" name="CyanogenMod/android_frameworks_opt_hardware" />
-  <project path="frameworks/opt/inputmethodcommon" name="CyanogenMod/android_frameworks_opt_inputmethodcommon" />
-  <project path="frameworks/opt/mms" name="CyanogenMod/android_frameworks_opt_mms" />
-  <project path="frameworks/opt/net/ethernet" name="CyanogenMod/android_frameworks_opt_net_ethernet" />
-  <project path="frameworks/opt/net/ims" name="CyanogenMod/android_frameworks_opt_net_ims" groups="frameworks_ims,pdk-cw-fs" />
-  <project path="frameworks/opt/net/voip" name="CyanogenMod/android_frameworks_opt_net_voip" />
-  <project path="frameworks/opt/net/wifi" name="CyanogenMod/android_frameworks_opt_net_wifi" groups="pdk" />
-  <project path="frameworks/opt/photoviewer" name="CyanogenMod/android_frameworks_opt_photoviewer" />
-  <project path="frameworks/opt/setupwizard" name="CyanogenMod/android_frameworks_opt_setupwizard" groups="pdk-cw-fs" />
-  <project path="frameworks/opt/telephony" name="CyanogenMod/android_frameworks_opt_telephony" groups="pdk" />
-  <project path="frameworks/opt/timezonepicker" name="CyanogenMod/android_frameworks_opt_timezonepicker" />
-  <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" />
+  <project path="frameworks/av" name="android_frameworks_av" groups="pdk" />
+  <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" groups="pdk" />
+  <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" groups="pdk" />
+  <project path="frameworks/compile/slang" name="android_frameworks_compile_slang" groups="pdk" />
+  <project path="frameworks/ex" name="android_frameworks_ex" />
+  <project path="frameworks/mff" name="android_frameworks_mff" />
+  <project path="frameworks/ml" name="android_frameworks_ml" />
+  <project path="frameworks/native" name="android_frameworks_native" groups="pdk" />
+  <project path="frameworks/opt/calendar" name="android_frameworks_opt_calendar" />
+  <project path="frameworks/opt/carddav" name="android_frameworks_opt_carddav" />
+  <project path="frameworks/opt/colorpicker" name="android_frameworks_opt_colorpicker" />
+  <project path="frameworks/opt/datetimepicker" name="android_frameworks_opt_datetimepicker" />
+  <project path="frameworks/opt/emoji" name="android_frameworks_opt_emoji" />
+  <project path="frameworks/opt/hardware" name="android_frameworks_opt_hardware" />
+  <project path="frameworks/opt/inputmethodcommon" name="android_frameworks_opt_inputmethodcommon" />
+  <project path="frameworks/opt/mailcommon" name="android_frameworks_opt_mailcommon" />
+  <project path="frameworks/opt/mms" name="android_frameworks_opt_mms" />
+  <project path="frameworks/opt/net/voip" name="android_frameworks_opt_net_voip" />
+  <project path="frameworks/opt/photoviewer" name="android_frameworks_opt_photoviewer" />
+  <project path="frameworks/opt/timezonepicker" name="android_frameworks_opt_timezonepicker" />
+  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" groups="pdk" />
+  <project path="frameworks/opt/telephony-msim" name="android_frameworks_opt_telephony-msim" />
+  <project path="frameworks/opt/vcard" name="android_frameworks_opt_vcard" />
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
-  <project path="frameworks/rs" name="CyanogenMod/android_frameworks_rs" groups="pdk" />
-  <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" />
-  <project path="frameworks/testing" name="CyanogenMod/android_frameworks_testing" />
-  <project path="frameworks/volley" name="CyanogenMod/android_frameworks_volley" />
-  <project path="frameworks/webview" name="CyanogenMod/android_frameworks_webview" />
-  <project path="frameworks/wilhelm" name="CyanogenMod/android_frameworks_wilhelm" />
+  <project path="frameworks/rs" name="android_frameworks_rs" groups="pdk" />
+  <project path="frameworks/support" name="android_frameworks_support" />
+  <project path="frameworks/testing" name="android_frameworks_testing" />
+  <project path="frameworks/volley" name="android_frameworks_volley" />
+  <project path="frameworks/webview" name="android_frameworks_webview" />
+  <project path="frameworks/wilhelm" name="android_frameworks_wilhelm" />
   <project path="hardware/akm" name="CyanogenMod/android_hardware_akm" groups="pdk" />
   <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" groups="broadcom_wlan" />
