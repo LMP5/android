@@ -42,7 +42,6 @@
   <project path="art" name="android_art" />
   <project path="bionic" name="android_bionic" groups="pdk" />
   <project path="bootable/recovery" name="android_bootable_recovery" />
-  <project path="bootable/recovery-cm" name="android_bootable_recovery-cm" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="developers/build" name="platform/developers/build" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
@@ -102,8 +101,6 @@
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" groups="qcom" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" />
-  <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" groups="qcom" />
-  <project path="hardware/qcom/display-caf-new" name="android_hardware_qcom_display-caf-new" groups="caf" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" groups="qcom" />
@@ -177,7 +174,6 @@
   <project path="packages/wallpapers/MusicVisualization" name="android_packages_wallpapers_MusicVisualization" />
   <project path="packages/wallpapers/NoiseField" name="android_packages_wallpapers_NoiseField" />
   <project path="packages/wallpapers/PhaseBeam" name="android_packages_wallpapers_PhaseBeam" />
-  <project path="packages/wallpapers/PhotoPhase" name="android_packages_wallpapers_PhotoPhase" />
   <!-- <project path="packages/wallpapers/PhotoPhase" name="CyanogenMod/android_packages_wallpapers_PhotoPhase" /> -->
   <project path="pdk" name="platform/pdk" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="prebuilts/android-emulator" name="platform/prebuilts/android-emulator" clone-depth="1" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
