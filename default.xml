@@ -76,10 +76,8 @@
   <project path="external/antlr" name="android_external_antlr" />
   <project path="external/apache-http" name="android_external_apache-http" />
   <project path="external/apache-qp" name="android_external_apache-qp" />
-  <project path="external/apache-xml" name="android_external_apache-xml" />
   <project path="external/bash" name="android_external_bash" />
   <project path="external/bison" name="android_external_bison" groups="pdk" />
-  <project path="external/blktrace" name="android_external_blktrace" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" groups="pdk" />
   <project path="external/bouncycastle" name="android_external_bouncycastle" />
   <project path="external/bsdiff" name="android_external_bsdiff" groups="pdk" />
@@ -163,7 +161,6 @@
   <project path="external/JakeWharton/butterknife" name="android_external_JakeWharton_butterknife" />
   <project path="external/javasqlite" name="android_external_javasqlite" />
   <project path="external/javassist" name="android_external_javassist" />
-  <project path="external/jdiff" name="android_external_jdiff" />
   <project path="external/jhead" name="android_external_jhead" groups="pdk" />
   <project path="external/jmdns" name="android_external_jmdns" />
   <project path="external/jmonkeyengine" name="android_external_jmonkeyengine" />
@@ -182,7 +179,6 @@
   <project path="external/libcap-ng" name="android_external_libcap-ng" />
   <project path="external/libexif" name="platform/external/libexif" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/libffi" name="android_external_libffi" />
-  <project path="external/libgsm" name="android_external_libgsm" groups="pdk" />
   <project path="external/liblzf" name="android_external_liblzf" groups="pdk" />
   <project path="external/libmtp" name="android_external_libmtp" />
   <project path="external/libncurses" name="android_external_libncurses" />
@@ -269,7 +265,6 @@
   <project path="external/stagefright-plugins" name="android_external_stagefright-plugins" />
   <project path="external/stlport" name="android_external_stlport" groups="pdk" />
   <project path="external/strace" name="android_external_strace" />
-  <project path="external/stressapptest" name="android_external_stressapptest" />
   <project path="external/svox" name="android_external_svox" />
   <project path="external/tcpdump" name="android_external_tcpdump" />
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
@@ -359,7 +354,6 @@
   <project path="packages/apps/Camera2" name="android_packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="android_packages_apps_CertInstaller" />
-  <project path="packages/apps/CMAccount" name="android_packages_apps_CMAccount" />
   <project path="packages/apps/CMBugReport" name="android_packages_apps_CMBugreport" />
   <project path="packages/apps/CMHome" name="android_packages_apps_CMHome" />
   <project path="packages/apps/CMUpdater" name="android_packages_apps_CMUpdater" remote="LMP5" revision="LMP5-5.0" />
@@ -401,7 +395,6 @@
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" name="android_packages_providers_PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" />
-  <project path="packages/providers/ThemesProvider" name="android_packages_providers_ThemesProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="android_packages_providers_UserDictionaryProvider" />
   <project path="packages/screensavers/Basic" name="android_packages_screensavers_Basic" />
   <project path="packages/screensavers/PhotoTable" name="android_packages_screensavers_PhotoTable" />
