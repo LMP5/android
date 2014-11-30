@@ -77,7 +77,6 @@
   <project path="external/apache-http" name="android_external_apache-http" />
   <project path="external/apache-qp" name="android_external_apache-qp" />
   <project path="external/apache-xml" name="android_external_apache-xml" />
-  <project path="external/arduino" name="android_external_arduino" />
   <project path="external/bash" name="android_external_bash" />
   <project path="external/bison" name="android_external_bison" groups="pdk" />
   <project path="external/blktrace" name="android_external_blktrace" />
@@ -89,7 +88,6 @@
   <project path="external/bzip2" name="android_external_bzip2" groups="pdk" />
   <project path="external/cardslib" name="android_external_cardslib" />
   <project path="external/ceres-solver" name="platform/external/ceres-solver" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
-  <project path="external/checkpolicy" name="android_external_checkpolicy" groups="pdk" />
   <project path="external/chromium" name="android_external_chromium" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/chromium-trace" name="android_external_chromium-trace" groups="pdk" />
@@ -132,8 +130,6 @@
   <project path="external/easymock" name="android_external_easymock" />
   <project path="external/ebtables" name="android_external_ebtables" />
   <project path="external/eclipse-basebuilder" name="android_external_eclipse-basebuilder" />
-  <project path="external/eclipse-windowbuilder" name="android_external_eclipse-windowbuilder" />
-  <project path="external/elfutils" name="android_external_elfutils" />
   <project path="external/embunit" name="android_external_embunit" />
   <project path="external/emma" name="android_external_emma" />
   <project path="external/esd" name="android_external_esd" />
@@ -151,7 +147,6 @@
   <project path="external/genext2fs" name="android_external_genext2fs" />
   <project path="external/giflib" name="android_external_giflib" />
   <project path="external/google" name="android_external_google" />
-  <project path="external/google-diff-match-patch" name="android_external_google-diff-match-patch" />
   <project path="external/gson" name="android_external_gson" />
   <project path="external/gtest" name="android_external_gtest" groups="pdk" />
   <project path="external/guava" name="android_external_guava" />
@@ -220,7 +215,6 @@
   <project path="external/lsof" name="android_external_lsof" />
   <project path="external/lzo" name="android_external_lzo" />
   <project path="external/marisa-trie" name="platform/external/marisa-trie" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
-  <project path="external/markdown" name="android_external_markdown" />
   <project path="external/mdnsresponder" name="android_external_mdnsresponder" groups="pdk" />
   <project path="external/mesa3d" name="platform/external/mesa3d" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/mksh" name="android_external_mksh" groups="pdk" />
@@ -397,7 +391,6 @@
   <project path="packages/apps/SpeechRecorder" name="android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="android_packages_apps_Tag" />
-  <project path="packages/apps/ThemeChooser" name="android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Torch" name="android_packages_apps_Torch" />
   <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" />
   <project path="packages/apps/UnifiedEmail" name="android_packages_apps_UnifiedEmail" />
