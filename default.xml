@@ -75,7 +75,6 @@
   <project path="external/antlr" name="android_external_antlr" />
   <project path="external/apache-qp" name="android_external_apache-qp" />
   <project path="external/bash" name="android_external_bash" />
-  <project path="external/bison" name="android_external_bison" groups="pdk" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" groups="pdk" />
   <project path="external/bouncycastle" name="android_external_bouncycastle" />
   <project path="external/bsdiff" name="android_external_bsdiff" groups="pdk" />
@@ -157,7 +156,6 @@
   <project path="external/jack" name="android_external_jack" />
   <project path="external/JakeWharton/butterknife" name="android_external_JakeWharton_butterknife" />
   <project path="external/javasqlite" name="android_external_javasqlite" />
-  <project path="external/javassist" name="android_external_javassist" />
   <project path="external/jhead" name="android_external_jhead" groups="pdk" />
   <project path="external/jmdns" name="android_external_jmdns" />
   <project path="external/jpeg" name="android_external_jpeg" groups="pdk" />
@@ -206,7 +204,6 @@
   <project path="external/mksh" name="android_external_mksh" groups="pdk" />
   <project path="external/mockwebserver" name="android_external_mockwebserver" />
   <project path="external/mp4parser" name="android_external_mp4parser" />
-  <project path="external/mtpd" name="android_external_mtpd" />
   <project path="external/nano" name="android_external_nano" />
   <project path="external/naver-fonts" name="android_external_naver-fonts" />
   <project path="external/netcat" name="android_external_netcat" />
@@ -221,19 +218,16 @@
   <project path="external/open-vcdiff" name="platform/external/open-vcdiff" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/opencv" name="android_external_opencv" />
   <project path="external/openfst" name="android_external_openfst" />
-  <project path="external/openssh" name="android_external_openssh" />
   <project path="external/openssl" name="android_external_openssl" groups="pdk" />
   <project path="external/pciutils" name="android_external_pciutils" />
   <project path="external/pigz" name="android_external_pigz" />
   <project path="external/pixman" name="platform/external/pixman" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/powertop" name="android_external_powertop" />
   <project path="external/ppp" name="android_external_ppp" />
-  <project path="external/proguard" name="android_external_proguard" groups="pdk-java" />
   <project path="external/protobuf" name="android_external_protobuf" groups="pdk" />
   <project path="external/protobuf-c" name="android_external_protobuf-c" />
   <project path="external/qemu-pc-bios" name="android_external_qemu-pc-bios" />
   <project path="external/qrngd" name="android_external_qrngd" />
-  <project path="external/regex-re2" name="android_external_regex-re2" />
   <project path="external/replicaisland" name="android_external_replicaisland" />
   <project path="external/robolectric" name="platform/external/robolectric" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/rsync" name="android_external_rsync" />
@@ -260,7 +254,6 @@
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/tinyalsa" name="android_external_tinyalsa" groups="pdk" />
   <project path="external/tinycompress" name="android_external_tinycompress" groups="pdk" />
-  <project path="external/tinyxml" name="android_external_tinyxml" groups="pdk" />
   <project path="external/tinyxml2" name="android_external_tinyxml2" groups="pdk" />
   <project path="external/tremolo" name="android_external_tremolo" groups="pdk" />
   <project path="external/v8" name="android_external_v8" />
