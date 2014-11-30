@@ -74,7 +74,6 @@
   <project path="external/ant-wireless/ant_service" name="android_external_ant-wireless_ant_service" />
   <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" />
   <project path="external/antlr" name="android_external_antlr" />
-  <project path="external/apache-harmony" name="android_external_apache-harmony" />
   <project path="external/apache-http" name="android_external_apache-http" />
   <project path="external/apache-qp" name="android_external_apache-qp" />
   <project path="external/apache-xml" name="android_external_apache-xml" />
@@ -127,7 +126,6 @@
   <project path="external/dexmaker" name="android_external_dexmaker" />
   <project path="external/dhcpcd" name="android_external_dhcpcd" />
   <project path="external/dnsmasq" name="android_external_dnsmasq" groups="pdk" />
-  <project path="external/doclava" name="android_external_doclava" />
   <project path="external/dropbear" name="android_external_dropbear" />
   <project path="external/droiddriver" name="platform/external/droiddriver" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" groups="pdk" />
@@ -140,7 +138,6 @@
   <project path="external/emma" name="android_external_emma" />
   <project path="external/esd" name="android_external_esd" />
   <project path="external/exfat" name="android_external_exfat" />
-  <project path="external/expat" name="android_external_expat" groups="pdk" />
   <project path="external/eyes-free" name="android_external_eyes-free" />
   <project path="external/f2fs-tools" name="android_external_f2fs-tools" />
   <project path="external/fdlibm" name="android_external_fdlibm" />
@@ -155,7 +152,6 @@
   <project path="external/giflib" name="android_external_giflib" />
   <project path="external/google" name="android_external_google" />
   <project path="external/google-diff-match-patch" name="android_external_google-diff-match-patch" />
-  <project path="external/grub" name="android_external_grub" />
   <project path="external/gson" name="android_external_gson" />
   <project path="external/gtest" name="android_external_gtest" groups="pdk" />
   <project path="external/guava" name="android_external_guava" />
@@ -202,7 +198,6 @@
   <project path="external/libnl-headers" name="android_external_libnl-headers" groups="pdk" />
   <project path="external/libogg" name="android_external_libogg" />
   <project path="external/libpcap" name="android_external_libpcap" />
-  <project path="external/libphonenumber" name="android_external_libphonenumber" />
   <project path="external/libphonenumbergoogle" name="android_external_libphonenumbergoogle" />
   <project path="external/libpng" name="android_external_libpng" groups="pdk" />
   <project path="external/libppp" name="android_external_libppp" />
@@ -229,14 +224,12 @@
   <project path="external/mdnsresponder" name="android_external_mdnsresponder" groups="pdk" />
   <project path="external/mesa3d" name="platform/external/mesa3d" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/mksh" name="android_external_mksh" groups="pdk" />
-  <project path="external/mockito" name="android_external_mockito" />
   <project path="external/mockwebserver" name="android_external_mockwebserver" />
   <project path="external/mp4parser" name="android_external_mp4parser" />
   <project path="external/mtpd" name="android_external_mtpd" />
   <project path="external/nano" name="android_external_nano" />
   <project path="external/naver-fonts" name="android_external_naver-fonts" />
   <project path="external/netcat" name="android_external_netcat" />
-  <project path="external/netperf" name="android_external_netperf" />
   <project path="external/neven" name="android_external_neven" />
   <project path="external/nist-pkits" name="platform/external/nist-pkits" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/nist-sip" name="android_external_nist-sip" />
@@ -259,7 +252,6 @@
   <project path="external/proguard" name="android_external_proguard" groups="pdk-java" />
   <project path="external/protobuf" name="android_external_protobuf" groups="pdk" />
   <project path="external/protobuf-c" name="android_external_protobuf-c" />
-  <project path="external/qemu" name="android_external_qemu" />
   <project path="external/qemu-pc-bios" name="android_external_qemu-pc-bios" />
   <project path="external/qrngd" name="android_external_qrngd" />
   <project path="external/regex-re2" name="android_external_regex-re2" />
@@ -298,7 +290,6 @@
   <project path="external/v8" name="android_external_v8" />
   <project path="external/valgrind" name="android_external_valgrind" groups="pdk" />
   <project path="external/vim" name="android_external_vim" />
-  <project path="external/webp" name="android_external_webp" />
   <project path="external/webrtc" name="android_external_webrtc" groups="pdk" />
   <project path="external/whispersystems/TextSecure" name="android_external_whispersystems_TextSecure" />
   <project path="external/whispersystems/WhisperPush" name="android_external_whispersystems_WhisperPush" />
