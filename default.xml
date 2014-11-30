@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
@@ -9,7 +10,7 @@
   <remote  name="tm"
            fetch="https://github.com/TheMuppets/" />
 
-  <remote  name="lmp5"
+  <remote  name="LMP5"
            fetch="https://github.com/LMP5/" />
 
   <remote  name="github"
