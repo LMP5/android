@@ -198,7 +198,6 @@
   <project path="external/nano" name="android_external_nano" />
   <project path="external/naver-fonts" name="android_external_naver-fonts" />
   <project path="external/netcat" name="android_external_netcat" />
-  <project path="external/neven" name="android_external_neven" />
   <project path="external/nist-pkits" name="platform/external/nist-pkits" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/nist-sip" name="android_external_nist-sip" />
   <project path="external/noto-fonts" name="platform/external/noto-fonts" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
@@ -243,7 +242,6 @@
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/tinyalsa" name="android_external_tinyalsa" groups="pdk" />
   <project path="external/tinycompress" name="android_external_tinycompress" groups="pdk" />
-  <project path="external/tinyxml2" name="android_external_tinyxml2" groups="pdk" />
   <project path="external/tremolo" name="android_external_tremolo" groups="pdk" />
   <project path="external/v8" name="android_external_v8" />
   <project path="external/valgrind" name="android_external_valgrind" groups="pdk" />
@@ -252,8 +250,6 @@
   <project path="external/whispersystems/TextSecure" name="android_external_whispersystems_TextSecure" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/wpa_supplicant_8_ti" name="android_external_wpa_supplicant_8_ti" />
-  <project path="external/xmp_toolkit" name="android_external_xmp_toolkit" />
-  <project path="external/yaffs2" name="android_external_yaffs2" groups="pdk" />
   <project path="external/zlib" name="android_external_zlib" groups="pdk" />
   <project path="external/zxing" name="android_external_zxing" />
   <project path="frameworks/av" name="android_frameworks_av" groups="pdk" />
@@ -300,7 +296,6 @@
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" groups="caf" />
   <project path="hardware/qcom/msm8960" name="android_hardware_qcom_msm8960" groups="qcom_msm8960" />
-  <project path="hardware/qcom/msm8x74" name="android_hardware_qcom_msm8x74" groups="qcom_msm8x74" />
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" />
   <project path="hardware/qcom/sensors" name="android_hardware_qcom_sensors" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" />
