@@ -24,7 +24,7 @@
            fetch="git://github.com/cyngn/" />
 
   <remote  name="private"
-           fetch="ssh://git@github.com" />
+           fetch="ssh://git@github.com" />
 
   <default revision="refs/heads/cm-12.0"
            remote="github"
@@ -36,6 +36,7 @@
   </project>
 
   <project path="android" name="android" remote="LMP5" revision="LMP5-5.0" groups="pdk" />
+
 
   <project path="abi/cpp" name="android_abi_cpp" groups="pdk" />
   <project path="art" name="android_art" />
