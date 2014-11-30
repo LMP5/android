@@ -54,7 +54,6 @@
   <project path="device/generic/common" name="android_device_generic_common" groups="pdk" />
   <project path="device/generic/goldfish" name="android_device_generic_goldfish" groups="pdk" />
   <project path="device/generic/mips" name="android_device_generic_mips" groups="pdk" />
-  <project path="device/generic/x86" name="android_device_generic_x86" groups="pdk" />
   <project path="device/generic/mini-emulator-arm64" name="device/generic/mini-emulator-arm64" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
@@ -132,7 +131,6 @@
   <project path="external/freetype" name="android_external_freetype" groups="pdk" />
   <project path="external/fsck_msdos" name="android_external_fsck_msdos" />
   <project path="external/fuse" name="android_external_fuse" />
-  <project path="external/ganymed-ssh2" name="android_external_ganymed-ssh2" />
   <project path="external/gcc-demangle" name="android_external_gcc-demangle" groups="pdk" />
   <project path="external/genext2fs" name="android_external_genext2fs" />
   <project path="external/giflib" name="android_external_giflib" />
@@ -218,7 +216,6 @@
   <project path="external/protobuf-c" name="android_external_protobuf-c" />
   <project path="external/qemu-pc-bios" name="android_external_qemu-pc-bios" />
   <project path="external/qrngd" name="android_external_qrngd" />
-  <project path="external/replicaisland" name="android_external_replicaisland" />
   <project path="external/robolectric" name="platform/external/robolectric" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/rsync" name="android_external_rsync" />
   <project path="external/safe-iop" name="android_external_safe-iop" groups="pdk" />
