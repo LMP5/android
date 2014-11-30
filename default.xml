@@ -268,7 +268,6 @@
   <project path="external/vim" name="android_external_vim" />
   <project path="external/webrtc" name="android_external_webrtc" groups="pdk" />
   <project path="external/whispersystems/TextSecure" name="android_external_whispersystems_TextSecure" />
-  <project path="external/whispersystems/WhisperPush" name="android_external_whispersystems_WhisperPush" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/wpa_supplicant_8_ti" name="android_external_wpa_supplicant_8_ti" />
   <project path="external/xmp_toolkit" name="android_external_xmp_toolkit" />
