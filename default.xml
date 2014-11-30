@@ -114,7 +114,6 @@
   <project path="external/compiler-rt" name="android_external_compiler-rt" groups="pdk" />
   <project path="external/connectivity" name="android_external_connectivity" />
   <project path="external/curl" name="android_external_curl" />
-  <project path="external/dexmaker" name="android_external_dexmaker" />
   <project path="external/dhcpcd" name="android_external_dhcpcd" />
   <project path="external/dnsmasq" name="android_external_dnsmasq" groups="pdk" />
   <project path="external/dropbear" name="android_external_dropbear" />
@@ -123,7 +122,6 @@
   <project path="external/easymock" name="android_external_easymock" />
   <project path="external/ebtables" name="android_external_ebtables" />
   <project path="external/embunit" name="android_external_embunit" />
-  <project path="external/emma" name="android_external_emma" />
   <project path="external/esd" name="android_external_esd" />
   <project path="external/exfat" name="android_external_exfat" />
   <project path="external/eyes-free" name="android_external_eyes-free" />
@@ -188,9 +186,7 @@
   <project path="external/libvpx" name="android_external_libvpx" groups="pdk" />
   <project path="external/libxml2" name="android_external_libxml2" />
   <project path="external/libxslt" name="android_external_libxslt" />
-  <project path="external/libyuv" name="android_external_libyuv" groups="libyuv" />
   <project path="external/linux-tools-perf" name="android_external_linux-tools-perf" />
-  <project path="external/llvm" name="android_external_llvm" groups="pdk" />
   <project path="external/lzma" name="platform/external/lzma" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/lsof" name="android_external_lsof" />
   <project path="external/lzo" name="android_external_lzo" />
@@ -240,7 +236,6 @@
   <project path="external/sqlite" name="android_external_sqlite" groups="pdk" />
   <project path="external/square/dagger" name="android_external_square_dagger" />
   <project path="external/square/javawriter" name="android_external_square_javawriter" />
-  <project path="external/srtp" name="android_external_srtp" />
   <project path="external/stagefright-plugins" name="android_external_stagefright-plugins" />
   <project path="external/strace" name="android_external_strace" />
   <project path="external/svox" name="android_external_svox" />
@@ -304,7 +299,6 @@
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" groups="caf" />
-  <project path="hardware/qcom/media-caf-new" name="android_hardware_qcom_media-caf-new" groups="caf" />
   <project path="hardware/qcom/msm8960" name="android_hardware_qcom_msm8960" groups="qcom_msm8960" />
   <project path="hardware/qcom/msm8x74" name="android_hardware_qcom_msm8x74" groups="qcom_msm8x74" />
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" />
