@@ -125,7 +125,6 @@
   <project path="external/dexmaker" name="android_external_dexmaker" />
   <project path="external/dhcpcd" name="android_external_dhcpcd" />
   <project path="external/dnsmasq" name="android_external_dnsmasq" groups="pdk" />
-  <project path="external/doclava" name="android_external_doclava" />
   <project path="external/dropbear" name="android_external_dropbear" />
   <project path="external/droiddriver" name="platform/external/droiddriver" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" groups="pdk" />
@@ -133,7 +132,6 @@
   <project path="external/ebtables" name="android_external_ebtables" />
   <project path="external/eclipse-basebuilder" name="android_external_eclipse-basebuilder" />
   <project path="external/eclipse-windowbuilder" name="android_external_eclipse-windowbuilder" />
-  <project path="external/elfutils" name="android_external_elfutils" />
   <project path="external/embunit" name="android_external_embunit" />
   <project path="external/emma" name="android_external_emma" />
   <project path="external/esd" name="android_external_esd" />
@@ -152,8 +150,6 @@
   <project path="external/genext2fs" name="android_external_genext2fs" />
   <project path="external/giflib" name="android_external_giflib" />
   <project path="external/google" name="android_external_google" />
-  <project path="external/google-diff-match-patch" name="android_external_google-diff-match-patch" />
-  <project path="external/grub" name="android_external_grub" />
   <project path="external/gson" name="android_external_gson" />
   <project path="external/gtest" name="android_external_gtest" groups="pdk" />
   <project path="external/guava" name="android_external_guava" />
@@ -402,7 +398,6 @@
   <project path="packages/apps/SpeechRecorder" name="android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="android_packages_apps_Tag" />
-  <project path="packages/apps/ThemeChooser" name="android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Torch" name="android_packages_apps_Torch" />
   <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" />
   <project path="packages/apps/UnifiedEmail" name="android_packages_apps_UnifiedEmail" />
@@ -419,7 +414,6 @@
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" name="android_packages_providers_PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" />
-  <project path="packages/providers/ThemesProvider" name="android_packages_providers_ThemesProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="android_packages_providers_UserDictionaryProvider" />
   <project path="packages/screensavers/Basic" name="android_packages_screensavers_Basic" />
   <project path="packages/screensavers/PhotoTable" name="android_packages_screensavers_PhotoTable" />
