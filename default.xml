@@ -87,7 +87,6 @@
   <project path="external/checkpolicy" name="android_external_checkpolicy" groups="pdk" />
   <project path="external/chromium" name="android_external_chromium" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
-  <project path="external/chromium-trace" name="android_external_chromium-trace" groups="pdk" />
   <project path="external/chromium_org" name="android_external_chromium_org" />
   <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
@@ -138,10 +137,8 @@
   <project path="external/fdlibm" name="android_external_fdlibm" />
   <project path="external/ffmpeg" name="android_external_ffmpeg" />
   <project path="external/flac" name="android_external_flac" groups="pdk" />
-  <project path="external/freetype" name="android_external_freetype" groups="pdk" />
   <project path="external/fsck_msdos" name="android_external_fsck_msdos" />
   <project path="external/fuse" name="android_external_fuse" />
-  <project path="external/ganymed-ssh2" name="android_external_ganymed-ssh2" />
   <project path="external/gcc-demangle" name="android_external_gcc-demangle" groups="pdk" />
   <project path="external/giflib" name="android_external_giflib" />
   <project path="external/google" name="android_external_google" />
@@ -179,7 +176,6 @@
   <project path="external/libcap-ng" name="android_external_libcap-ng" />
   <project path="external/libexif" name="platform/external/libexif" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/libffi" name="android_external_libffi" />
-  <project path="external/libgsm" name="android_external_libgsm" groups="pdk" />
   <project path="external/liblzf" name="android_external_liblzf" groups="pdk" />
   <project path="external/libncurses" name="android_external_libncurses" />
   <project path="external/libnfc-nci" name="android_external_libnfc-nci" groups="pdk" />
@@ -328,7 +324,6 @@
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" groups="caf" />
-  <project path="hardware/qcom/media-caf-new" name="android_hardware_qcom_media-caf-new" groups="caf" />
   <project path="hardware/qcom/msm8960" name="android_hardware_qcom_msm8960" groups="qcom_msm8960" />
   <project path="hardware/qcom/msm8x74" name="android_hardware_qcom_msm8x74" groups="qcom_msm8x74" />
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" />
@@ -353,7 +348,6 @@
   <project path="packages/apps/Camera2" name="android_packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="android_packages_apps_CertInstaller" />
-  <project path="packages/apps/CMAccount" name="android_packages_apps_CMAccount" />
   <project path="packages/apps/CMBugReport" name="android_packages_apps_CMBugreport" />
   <project path="packages/apps/CMHome" name="android_packages_apps_CMHome" />
   <project path="packages/apps/CMUpdater" name="android_packages_apps_CMUpdater" remote="LMP5" revision="LMP5-5.0" />
