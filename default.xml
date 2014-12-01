@@ -41,7 +41,6 @@
   <project path="abi/cpp" name="android_abi_cpp" groups="pdk" />
   <project path="art" name="android_art" />
   <project path="bionic" name="android_bionic" groups="pdk" />
-  <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="android_bootable_recovery" />
   <project path="bootable/recovery-cm" name="android_bootable_recovery-cm" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.4.4_r2" groups="cts" />
