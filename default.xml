@@ -184,7 +184,6 @@
   <project path="external/libncurses" name="android_external_libncurses" />
   <project path="external/libnfc-nci" name="android_external_libnfc-nci" groups="pdk" />
   <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" groups="pdk" />
-  <project path="external/libnl-headers" name="android_external_libnl-headers" groups="pdk" />
   <project path="external/libogg" name="android_external_libogg" />
   <project path="external/libpcap" name="android_external_libpcap" />
   <project path="external/libphonenumber" name="android_external_libphonenumber" />
@@ -238,7 +237,6 @@
   <project path="external/powertop" name="android_external_powertop" />
   <project path="external/ppp" name="android_external_ppp" />
   <project path="external/proguard" name="android_external_proguard" groups="pdk-java" />
-  <project path="external/protobuf" name="android_external_protobuf" groups="pdk" />
   <project path="external/protobuf-c" name="android_external_protobuf-c" />
   <project path="external/qemu" name="android_external_qemu" />
   <project path="external/qemu-pc-bios" name="android_external_qemu-pc-bios" />
@@ -284,7 +282,6 @@
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/wpa_supplicant_8_ti" name="android_external_wpa_supplicant_8_ti" />
   <project path="external/xmlwriter" name="android_external_xmlwriter" />
-  <project path="external/yaffs2" name="android_external_yaffs2" groups="pdk" />
   <project path="external/zlib" name="android_external_zlib" groups="pdk" />
   <project path="frameworks/av" name="android_frameworks_av" groups="pdk" />
   <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" groups="pdk" />
