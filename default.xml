@@ -79,7 +79,6 @@
   <project path="external/apache-xml" name="android_external_apache-xml" />
   <project path="external/arduino" name="android_external_arduino" />
   <project path="external/bash" name="android_external_bash" />
-  <project path="external/bison" name="android_external_bison" groups="pdk" />
   <project path="external/blktrace" name="android_external_blktrace" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" groups="pdk" />
   <project path="external/bouncycastle" name="android_external_bouncycastle" />
@@ -119,7 +118,6 @@
   <project path="external/chromium_org/tools/gyp" name="platform/external/chromium_org/tools/gyp" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/clang" name="android_external_clang" groups="pdk" />
-  <project path="external/compiler-rt" name="android_external_compiler-rt" groups="pdk" />
   <project path="external/connectivity" name="android_external_connectivity" />
   <project path="external/crda" name="android_external_crda" />
   <project path="external/curl" name="android_external_curl" />
@@ -135,7 +133,6 @@
   <project path="external/eclipse-basebuilder" name="android_external_eclipse-basebuilder" />
   <project path="external/eclipse-windowbuilder" name="android_external_eclipse-windowbuilder" />
   <project path="external/elfutils" name="android_external_elfutils" />
-  <project path="external/embunit" name="android_external_embunit" />
   <project path="external/emma" name="android_external_emma" />
   <project path="external/esd" name="android_external_esd" />
   <project path="external/exfat" name="android_external_exfat" />
@@ -174,7 +171,6 @@
   <project path="external/javasqlite" name="android_external_javasqlite" />
   <project path="external/javassist" name="android_external_javassist" />
   <project path="external/jdiff" name="android_external_jdiff" />
-  <project path="external/jhead" name="android_external_jhead" groups="pdk" />
   <project path="external/jmdns" name="android_external_jmdns" />
   <project path="external/jmonkeyengine" name="android_external_jmonkeyengine" />
   <project path="external/jpeg" name="android_external_jpeg" groups="pdk" />
@@ -194,7 +190,6 @@
   <project path="external/libffi" name="android_external_libffi" />
   <project path="external/libgsm" name="android_external_libgsm" groups="pdk" />
   <project path="external/liblzf" name="android_external_liblzf" groups="pdk" />
-  <project path="external/libmtp" name="android_external_libmtp" />
   <project path="external/libncurses" name="android_external_libncurses" />
   <project path="external/libnfc-nci" name="android_external_libnfc-nci" groups="pdk" />
   <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" groups="pdk" />
@@ -284,7 +279,6 @@
   <project path="external/stagefright-plugins" name="android_external_stagefright-plugins" />
   <project path="external/stlport" name="android_external_stlport" groups="pdk" />
   <project path="external/strace" name="android_external_strace" />
-  <project path="external/stressapptest" name="android_external_stressapptest" />
   <project path="external/svox" name="android_external_svox" />
   <project path="external/tagsoup" name="android_external_tagsoup" />
   <project path="external/tcpdump" name="android_external_tcpdump" />
@@ -304,10 +298,8 @@
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/wpa_supplicant_8_ti" name="android_external_wpa_supplicant_8_ti" />
   <project path="external/xmlwriter" name="android_external_xmlwriter" />
-  <project path="external/xmp_toolkit" name="android_external_xmp_toolkit" />
   <project path="external/yaffs2" name="android_external_yaffs2" groups="pdk" />
   <project path="external/zlib" name="android_external_zlib" groups="pdk" />
-  <project path="external/zxing" name="android_external_zxing" />
   <project path="frameworks/av" name="android_frameworks_av" groups="pdk" />
   <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" groups="pdk" />
@@ -437,7 +429,6 @@
   <project path="packages/wallpapers/PhaseBeam" name="android_packages_wallpapers_PhaseBeam" />
   <project path="packages/wallpapers/PhotoPhase" name="android_packages_wallpapers_PhotoPhase" />
   <project path="pdk" name="platform/pdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" groups="pdk" />
-  <project path="prebuilt" name="android_prebuilt" />
   <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="darwin" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="prebuilts/clang/darwin-x86/3.2" name="platform/prebuilts/clang/darwin-x86/3.2" groups="darwin" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="prebuilts/clang/darwin-x86/arm/3.3" name="platform/prebuilts/clang/darwin-x86/arm/3.3" groups="darwin,arm" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
