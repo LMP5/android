@@ -166,7 +166,6 @@
   <project path="external/jack" name="android_external_jack" />
   <project path="external/JakeWharton/butterknife" name="android_external_JakeWharton_butterknife" />
   <project path="external/javasqlite" name="android_external_javasqlite" />
-  <project path="external/javassist" name="android_external_javassist" />
   <project path="external/jdiff" name="android_external_jdiff" />
   <project path="external/jmdns" name="android_external_jmdns" />
   <project path="external/jmonkeyengine" name="android_external_jmonkeyengine" />
