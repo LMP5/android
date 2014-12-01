@@ -60,7 +60,6 @@
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
-  <project path="device/google/accessory/arduino" name="android_device_google_accessory_arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="android_device_google_accessory_demokit" groups="device" />
   <project path="device/sample" name="android_device_sample" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
@@ -76,7 +75,6 @@
   <project path="external/apache-harmony" name="android_external_apache-harmony" />
   <project path="external/apache-http" name="android_external_apache-http" />
   <project path="external/apache-qp" name="android_external_apache-qp" />
-  <project path="external/apache-xml" name="android_external_apache-xml" />
   <project path="external/arduino" name="android_external_arduino" />
   <project path="external/bash" name="android_external_bash" />
   <project path="external/blktrace" name="android_external_blktrace" />
@@ -154,7 +152,6 @@
   <project path="external/grub" name="android_external_grub" />
   <project path="external/gson" name="android_external_gson" />
   <project path="external/gtest" name="android_external_gtest" groups="pdk" />
-  <project path="external/guava" name="android_external_guava" />
   <project path="external/hamcrest" name="android_external_hamcrest" />
   <project path="external/harfbuzz" name="android_external_harfbuzz" />
   <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
@@ -223,8 +220,6 @@
   <project path="external/mdnsresponder" name="android_external_mdnsresponder" groups="pdk" />
   <project path="external/mesa3d" name="platform/external/mesa3d" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/mksh" name="android_external_mksh" groups="pdk" />
-  <project path="external/mockito" name="android_external_mockito" />
-  <project path="external/mockwebserver" name="android_external_mockwebserver" />
   <project path="external/mp4parser" name="android_external_mp4parser" />
   <project path="external/mtpd" name="android_external_mtpd" />
   <project path="external/nano" name="android_external_nano" />
@@ -267,7 +262,6 @@
   <project path="external/sil-fonts" name="platform/external/sil-fonts" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/skia" name="android_external_skia" />
   <project path="external/smack" name="platform/external/smack" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
-  <project path="external/smali" name="android_external_smali" />
   <project path="external/sonivox" name="android_external_sonivox" groups="pdk" />
   <project path="external/speex" name="android_external_speex" groups="pdk" />
   <project path="external/spongycastle" name="android_external_spongycastle" groups="pdk" />
@@ -321,7 +315,6 @@
   <project path="frameworks/opt/photoviewer" name="android_frameworks_opt_photoviewer" />
   <project path="frameworks/opt/timezonepicker" name="android_frameworks_opt_timezonepicker" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" groups="pdk" />
-  <project path="frameworks/opt/telephony-msim" name="android_frameworks_opt_telephony-msim" />
   <project path="frameworks/opt/vcard" name="android_frameworks_opt_vcard" />
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="frameworks/rs" name="android_frameworks_rs" groups="pdk" />
