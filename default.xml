@@ -225,7 +225,7 @@
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" groups="qcom" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf-new" groups="caf" />
-   <project path="hardware/qcom/display-caf-new" name="android_hardware_qcom_display-caf-new" groups="caf" />
+  <project path="hardware/qcom/display-caf-new" name="android_hardware_qcom_display-caf-new" groups="caf" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom" />
