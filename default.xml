@@ -33,7 +33,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="LMP5/android" />
+  <project path="android" name="android" remote="LMP5" revision="LMP5-5.0" groups="pdk" />
 
   <project path="abi/cpp" name="android_abi_cpp" groups="pdk" />
   <project path="art" name="android_art" />
