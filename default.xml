@@ -41,23 +41,6 @@
   <project path="bootable/recovery" name="android_bootable_recovery" />
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="development" name="android_development" />
-  <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" groups="pdk" />
-  <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" groups="broadcom_wlan" />
-  <project path="hardware/cm" name="android_hardware_cm" />
-  <project path="hardware/invensense" name="android_hardware_invensense" groups="invensense" />
-  <project path="hardware/libhardware" name="android_hardware_libhardware" groups="pdk" />
-  <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" groups="pdk" />
-  <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" groups="qcom" />
-  <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" />
-  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom" />
-  <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom" />
-  <project path="hardware/qcom/sensors" name="android_hardware_qcom_sensors" />
-  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" />
-  <project path="hardware/ril" name="android_hardware_ril" groups="pdk"  />
-  <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" />
-  <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" />
-  <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
-  <project path="prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" groups="pdk,darwin,x86" remote="aosp" revision="master" />
   
   <!--LMP5 Additions-->
   <project path="packages/wallpapers/SlothWalls" name="packages_wallpapers_SlothWalls" remote="LMP5" revision="LMP5-5.0" />
