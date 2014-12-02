@@ -268,7 +268,6 @@
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" />
   <project path="packages/apps/BluetoothExt" name="android_packages_apps_BluetoothExt" />
   <project path="packages/apps/Browser" name="android_packages_apps_Browser" />
-  <project path="packages/apps/Calculator" name="android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="android_packages_apps_Calendar" />
   <project path="packages/apps/Camera2" name="android_packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="android_packages_apps_CellBroadcastReceiver" />
