@@ -367,7 +367,7 @@
   <project path="packages/apps/CMAccount" name="android_packages_apps_CMAccount" />
   <project path="packages/apps/CMBugReport" name="android_packages_apps_CMBugreport" />
   <project path="packages/apps/CMHome" name="android_packages_apps_CMHome" />
-  <project path="packages/apps/CMUpdater" name="android_packages_apps_CMUpdater" remote="LMP5r" revision="LMP5-5.0" />
+  <project path="packages/apps/CMUpdater" name="android_packages_apps_CMUpdater" remote="LMP5" revision="LMP5-5.0" />
   <project path="packages/apps/CMWallpapers" name="android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" />
   <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" />
