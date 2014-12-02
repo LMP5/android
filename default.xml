@@ -43,16 +43,6 @@
   <project path="development" name="android_development" />
   <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" groups="pdk" />
-  <project path="frameworks/ex" name="android_frameworks_ex" />
-  <project path="frameworks/ml" name="android_frameworks_ml" />
-  <project path="frameworks/opt/calendar" name="android_frameworks_opt_calendar" />
-  <project path="frameworks/opt/carddav" name="android_frameworks_opt_carddav" />
-  <project path="frameworks/opt/colorpicker" name="android_frameworks_opt_colorpicker" />
-  <project path="frameworks/opt/datetimepicker" name="android_frameworks_opt_datetimepicker" />
-  <project path="frameworks/opt/emoji" name="android_frameworks_opt_emoji" />
-  <project path="frameworks/opt/inputmethodcommon" name="android_frameworks_opt_inputmethodcommon" />
-  <project path="frameworks/opt/mms" name="android_frameworks_opt_mms" />
-  <project path="frameworks/opt/net/voip" name="android_frameworks_opt_net_voip" />
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" groups="broadcom_wlan" />
   <project path="hardware/cm" name="android_hardware_cm" />
