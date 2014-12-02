@@ -41,7 +41,6 @@
   <project path="bootable/recovery" name="android_bootable_recovery" />
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="development" name="android_development" />
-  <project path="hardware/samsung" name="android_hardware_samsung" />
   
   <!--LMP5 Additions-->
   <project path="packages/wallpapers/SlothWalls" name="packages_wallpapers_SlothWalls" remote="LMP5" revision="LMP5-5.0" />
@@ -60,4 +59,5 @@
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="LMP5" revision="LMP5-5.0" groups="caf" />
   <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="LMP5" revision="LMP5-5.0" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-12.0" />
+  <project path="hardware/samsung" name="android_hardware_samsung" remote="LMP5" revision="LMP5-5.0" />
 </manifest>
