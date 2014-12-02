@@ -224,12 +224,12 @@
   <project path="hardware/libhardware" name="android_hardware_libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" groups="qcom" />
-  <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" groups="caf" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf-new" groups="caf" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" groups="qcom" />
+  <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" groups="caf" />
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" />
   <project path="hardware/qcom/sensors" name="android_hardware_qcom_sensors" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" />
