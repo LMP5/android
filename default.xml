@@ -120,7 +120,6 @@
   <project path="external/dropbear" name="android_external_dropbear" />
   <project path="external/droiddriver" name="platform/external/droiddriver" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" groups="pdk" />
-  <project path="external/easymock" name="android_external_easymock" />
   <project path="external/ebtables" name="android_external_ebtables" />
   <project path="external/eclipse-basebuilder" name="android_external_eclipse-basebuilder" />
   <project path="external/emma" name="android_external_emma" />
@@ -144,7 +143,6 @@
   <project path="external/iproute2" name="android_external_iproute2" groups="pdk" />
   <project path="external/iptables" name="android_external_iptables" />
   <project path="external/iputils" name="platform/external/iputils" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
-  <project path="external/jack" name="android_external_jack" />
   <project path="external/JakeWharton/butterknife" name="android_external_JakeWharton_butterknife" />
   <project path="external/jdiff" name="android_external_jdiff" />
   <project path="external/jmdns" name="android_external_jmdns" />
@@ -242,11 +240,8 @@
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/tinyalsa" name="android_external_tinyalsa" groups="pdk" />
   <project path="external/tinycompress" name="android_external_tinycompress" groups="pdk" />
-  <project path="external/tinyxml" name="android_external_tinyxml" groups="pdk" />
-  <project path="external/tinyxml2" name="android_external_tinyxml2" groups="pdk" />
   <project path="external/tremolo" name="android_external_tremolo" groups="pdk" />
   <project path="external/v8" name="android_external_v8" />
-  <project path="external/valgrind" name="android_external_valgrind" groups="pdk" />
   <project path="external/vim" name="android_external_vim" />
   <project path="external/webp" name="android_external_webp" />
   <project path="external/webrtc" name="android_external_webrtc" groups="pdk" />
@@ -346,12 +341,10 @@
   <project path="packages/apps/SpeechRecorder" name="android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="android_packages_apps_Tag" />
-  <project path="packages/apps/ThemeChooser" name="android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Torch" name="android_packages_apps_Torch" />
   <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" />
   <project path="packages/apps/UnifiedEmail" name="android_packages_apps_UnifiedEmail" />
   <project path="packages/apps/VideoEditor" name="android_packages_apps_VideoEditor" />
-  <project path="packages/apps/VoicePlus" name="android_packages_apps_VoicePlus" />
   <project path="packages/experimental" name="android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" />
   <project path="packages/inputmethods/OpenWnn" name="android_packages_inputmethods_OpenWnn" />
