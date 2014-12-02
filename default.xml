@@ -131,8 +131,27 @@
   <project path="system/vold" name="android_system_vold" groups="pdk" />
   
   <!--LMP5 Additions-->
+  <project path="packages/wallpapers/SlothWalls" name="packages_wallpapers_SlothWalls" remote="LMP5" revision="LMP5-5.0" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="LMP5" revision="LMP5-5.0" />
+  <project path="packages/apps/TeamNocturnal" name="packages_apps_TeamNocturnal" remote="LMP5" revision="LMP5-5.0" />  
+  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="bmfr" revision="LMP5-5.0" />
+  <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="LMP5" revision="LMP5-5.0" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="LMP5" revision="LMP5-5.0" />
+  <project path="packages/apps/InCallUI" name="android_packages_apps_InCallUI" remote="LMP5" revision="LMP5-5.0" />
+  <project path="vendor/cm" name="android_vendor_cm" remote="LMP5" revision="LMP5-5.0" />
+  <project path="hardware/samsung" name="android_hardware_samsung" />
+  <project path="device/samsung/klte-common" name="android_device_samsung_klte-common" remote="LMP5" revision="LMP5-5.0" />
+  <project path="device/samsung/kltespr" name="android_device_samsung_kltespr" remote="LMP5" revision="LMP5-5.0" />
+  <project path="device/samsung/msm8974-common" name="android_device_samsung_msm8974-common" remote="LMP5" revision="LMP5-5.0" />
+  <project path="device/qcom/common" name="android_device_qcom_common" />
+  <project path="kernel/samsung/klte" name="android_kernel_samsung_klte" remote="LMP5" revision="LMP5-5.0" />
+  <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="LMP5" revision="LMP5-5.0" groups="qcom" />
+  <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="LMP5" revision="LMP5-5.0" groups="caf" />
+  <project path="kernel/google/msm" name="android_kernel_google_msm" remote="LMP5" revision="LMP5-5.0" />
+  <project path="kernel/htc/msm8960" name="android_kernel_htc_msm8960" remote="LMP5" revision="LMP5-5.0" />
+  <project name="android_device_asus_flo" path="device/asus/flo" remote="LMP5" revision="LMP5-5.0" />
+  <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="LMP5" revision="LMP5-5.0" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" groups="linux,arm" remote="aosp" revision="refs/tags/android-4.4w_r1" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" groups="linux,arm" remote="aosp" revision="refs/tags/android-4.4w_r1" />
-  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-11.0" />
-  <project path="vendor/htc" name="proprietary_vendor_htc" remote="tm" revision="cm-12.0" />
+  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-12.0" />
 </manifest>
