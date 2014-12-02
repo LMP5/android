@@ -61,7 +61,6 @@
   <project path="device/sample" name="android_device_sample" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/aac" name="android_external_aac" groups="pdk" />
-  <project path="external/android-clat" name="android_external_android-clat" />
   <project path="external/android-mock" name="android_external_android-mock" />
   <project path="external/android-visualizer" name="android_external_android-visualizer" />
   <project path="external/ant-glob" name="android_external_ant-glob" />
@@ -69,7 +68,6 @@
   <project path="external/ant-wireless/ant_service" name="android_external_ant-wireless_ant_service" />
   <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" />
   <project path="external/apache-harmony" name="android_external_apache-harmony" />
-  <project path="external/apache-qp" name="android_external_apache-qp" />
   <project path="external/arduino" name="android_external_arduino" />
   <project path="external/bash" name="android_external_bash" />
   <project path="external/blktrace" name="android_external_blktrace" />
@@ -143,9 +141,7 @@
   <project path="external/iptables" name="android_external_iptables" />
   <project path="external/iputils" name="platform/external/iputils" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/JakeWharton/butterknife" name="android_external_JakeWharton_butterknife" />
-  <project path="external/jdiff" name="android_external_jdiff" />
   <project path="external/jmdns" name="android_external_jmdns" />
-  <project path="external/jmonkeyengine" name="android_external_jmonkeyengine" />
   <project path="external/jpeg" name="android_external_jpeg" groups="pdk" />
   <project path="external/jsilver" name="android_external_jsilver" />
   <project path="external/jsr305" name="android_external_jsr305" />
@@ -187,7 +183,6 @@
   <project path="external/mesa3d" name="platform/external/mesa3d" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/mksh" name="android_external_mksh" groups="pdk" />
   <project path="external/nano" name="android_external_nano" />
-  <project path="external/netcat" name="android_external_netcat" />
   <project path="external/netperf" name="android_external_netperf" />
   <project path="external/neven" name="android_external_neven" />
   <project path="external/nist-pkits" name="platform/external/nist-pkits" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
