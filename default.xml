@@ -41,8 +41,6 @@
   <project path="bootable/recovery" name="android_bootable_recovery" />
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="development" name="android_development" />
-  <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" groups="pdk" />
-  <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" groups="pdk" />
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" groups="broadcom_wlan" />
   <project path="hardware/cm" name="android_hardware_cm" />
@@ -58,15 +56,8 @@
   <project path="hardware/ril" name="android_hardware_ril" groups="pdk"  />
   <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" />
-  <project path="libnativehelper" name="android_libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" groups="pdk,darwin,x86" remote="aosp" revision="master" />
-  <project path="system/core" name="android_system_core" groups="pdk" />
-  <project path="system/extras" name="android_system_extras" groups="pdk" />
-  <project path="system/media" name="android_system_media" groups="pdk" />
-  <project path="system/netd" name="android_system_netd" groups="pdk" />
-  <project path="system/qcom" name="android_system_qcom" groups="qcom" />
-  <project path="system/security" name="android_system_security" groups="pdk" />
   
   <!--LMP5 Additions-->
   <project path="packages/wallpapers/SlothWalls" name="packages_wallpapers_SlothWalls" remote="LMP5" revision="LMP5-5.0" />
@@ -86,7 +77,6 @@
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="LMP5" revision="LMP5-5.0" groups="qcom" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="LMP5" revision="LMP5-5.0" groups="caf" />
   <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="LMP5" revision="LMP5-5.0" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" groups="linux,arm" remote="aosp" revision="refs/tags/android-4.4w_r1" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" groups="linux,arm" remote="aosp" revision="refs/tags/android-4.4w_r1" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-12.0" />
 </manifest>
