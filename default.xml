@@ -149,7 +149,6 @@
   <project path="external/libusbx" name="android_external_libusbx" />
   <project path="external/libusb-compat" name="android_external_libusb-compat" />
   <project path="external/libssh2" name="platform/external/libssh2" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
-  <project path="external/libvorbis" name="android_external_libvorbis" />
   <project path="external/libxml2" name="android_external_libxml2" />
   <project path="external/libxslt" name="android_external_libxslt" />
   <project path="external/linux-tools-perf" name="android_external_linux-tools-perf" />
