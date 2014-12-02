@@ -58,7 +58,6 @@
   <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
-  <project path="external/aac" name="android_external_aac" groups="pdk" />
   <project path="external/android-mock" name="android_external_android-mock" />
   <project path="external/android-visualizer" name="android_external_android-visualizer" />
   <project path="external/ant-glob" name="android_external_ant-glob" />
@@ -193,7 +192,6 @@
   <project path="external/qemu" name="android_external_qemu" />
   <project path="external/qemu-pc-bios" name="android_external_qemu-pc-bios" />
   <project path="external/qrngd" name="android_external_qrngd" />
-  <project path="external/replicaisland" name="android_external_replicaisland" />
   <project path="external/robolectric" name="platform/external/robolectric" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/rsync" name="android_external_rsync" />
   <project path="external/safe-iop" name="android_external_safe-iop" groups="pdk" />
@@ -210,7 +208,6 @@
   <project path="external/square/dagger" name="android_external_square_dagger" />
   <project path="external/square/javawriter" name="android_external_square_javawriter" />
   <project path="external/stagefright-plugins" name="android_external_stagefright-plugins" />
-  <project path="external/stlport" name="android_external_stlport" groups="pdk" />
   <project path="external/strace" name="android_external_strace" />
   <project path="external/svox" name="android_external_svox" />
   <project path="external/tagsoup" name="android_external_tagsoup" />
@@ -243,7 +240,6 @@
   <project path="frameworks/opt/emoji" name="android_frameworks_opt_emoji" />
   <project path="frameworks/opt/hardware" name="android_frameworks_opt_hardware" />
   <project path="frameworks/opt/inputmethodcommon" name="android_frameworks_opt_inputmethodcommon" />
-  <project path="frameworks/opt/mailcommon" name="android_frameworks_opt_mailcommon" />
   <project path="frameworks/opt/mms" name="android_frameworks_opt_mms" />
   <project path="frameworks/opt/net/voip" name="android_frameworks_opt_net_voip" />
   <project path="frameworks/opt/photoviewer" name="android_frameworks_opt_photoviewer" />
@@ -388,7 +384,6 @@
   <project path="prebuilts/runtime" name="platform/prebuilts/runtime" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.4.4_r2" groups="pdk,tools" />
-  <project path="sdk" name="android_sdk" />
   <project path="system/core" name="android_system_core" groups="pdk" />
   <project path="system/extras" name="android_system_extras" groups="pdk" />
   <project path="system/media" name="android_system_media" groups="pdk" />
