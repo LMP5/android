@@ -59,6 +59,5 @@
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="LMP5" revision="LMP5-5.0" groups="qcom" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="LMP5" revision="LMP5-5.0" groups="caf" />
   <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="LMP5" revision="LMP5-5.0" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" groups="linux,arm" remote="aosp" revision="refs/tags/android-4.4w_r1" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-12.0" />
 </manifest>
