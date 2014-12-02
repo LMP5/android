@@ -121,7 +121,6 @@
   <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/heimdall" name="android_external_heimdall" />
   <project path="external/htop" name="android_external_htop" />
-  <project path="external/hyphenation" name="android_external_hyphenation" />
   <project path="external/iproute2" name="android_external_iproute2" groups="pdk" />
   <project path="external/iptables" name="android_external_iptables" />
   <project path="external/iputils" name="platform/external/iputils" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
@@ -138,12 +137,9 @@
   <project path="external/koush/Superuser" name="Superuser" />
   <project path="external/koush/Widgets" name="Widgets" />
   <project path="external/libexif" name="platform/external/libexif" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
-  <project path="external/libffi" name="android_external_libffi" />
   <project path="external/libncurses" name="android_external_libncurses" />
   <project path="external/libnfc-nci" name="android_external_libnfc-nci" groups="pdk" />
   <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" groups="pdk" />
-  <project path="external/libogg" name="android_external_libogg" />
-  <project path="external/libpcap" name="android_external_libpcap" />
   <project path="external/libphonenumbergoogle" name="android_external_libphonenumbergoogle" />
   <project path="external/libpng" name="android_external_libpng" groups="pdk" />
   <project path="external/libppp" name="android_external_libppp" />
@@ -173,14 +169,11 @@
   <project path="external/okhttp" name="android_external_okhttp" />
   <project path="external/open-vcdiff" name="platform/external/open-vcdiff" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/openssl" name="android_external_openssl" groups="pdk" />
-  <project path="external/oprofile" name="android_external_oprofile" />
   <project path="external/pciutils" name="android_external_pciutils" />
   <project path="external/pigz" name="android_external_pigz" />
   <project path="external/pixman" name="platform/external/pixman" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/powertop" name="android_external_powertop" />
-  <project path="external/proguard" name="android_external_proguard" groups="pdk-java" />
   <project path="external/protobuf-c" name="android_external_protobuf-c" />
-  <project path="external/qemu-pc-bios" name="android_external_qemu-pc-bios" />
   <project path="external/qrngd" name="android_external_qrngd" />
   <project path="external/robolectric" name="platform/external/robolectric" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/rsync" name="android_external_rsync" />
@@ -304,7 +297,6 @@
   <project path="packages/experimental" name="android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" />
   <project path="packages/inputmethods/OpenWnn" name="android_packages_inputmethods_OpenWnn" />
-  <project path="packages/inputmethods/PinyinIME" name="android_packages_inputmethods_PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="android_packages_providers_CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider" />
