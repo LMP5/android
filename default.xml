@@ -121,7 +121,6 @@
   <project path="external/exfat" name="android_external_exfat" />
   <project path="external/eyes-free" name="android_external_eyes-free" />
   <project path="external/f2fs-tools" name="android_external_f2fs-tools" />
-  <project path="external/fdlibm" name="android_external_fdlibm" />
   <project path="external/ffmpeg" name="android_external_ffmpeg" />
   <project path="external/flac" name="android_external_flac" groups="pdk" />
   <project path="external/fsck_msdos" name="android_external_fsck_msdos" />
