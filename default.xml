@@ -109,7 +109,6 @@
   <project path="external/droiddriver" name="platform/external/droiddriver" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" groups="pdk" />
   <project path="external/ebtables" name="android_external_ebtables" />
-  <project path="external/esd" name="android_external_esd" />
   <project path="external/exfat" name="android_external_exfat" />
   <project path="external/f2fs-tools" name="android_external_f2fs-tools" />
   <project path="external/ffmpeg" name="android_external_ffmpeg" />
