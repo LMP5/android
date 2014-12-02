@@ -116,7 +116,6 @@
   <project path="external/heimdall" name="android_external_heimdall" />
   <project path="external/htop" name="android_external_htop" />
   <project path="external/iproute2" name="android_external_iproute2" groups="pdk" />
-  <project path="external/iptables" name="android_external_iptables" />
   <project path="external/iputils" name="platform/external/iputils" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/JakeWharton/butterknife" name="android_external_JakeWharton_butterknife" />
   <project path="external/jpeg" name="android_external_jpeg" groups="pdk" />
@@ -224,7 +223,6 @@
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" groups="broadcom_wlan" />
   <project path="hardware/cm" name="android_hardware_cm" />
-  <project path="hardware/invensense" name="android_hardware_invensense" groups="invensense" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" groups="qcom" />
@@ -249,7 +247,6 @@
   <project path="packages/apps/BluetoothExt" name="android_packages_apps_BluetoothExt" />
   <project path="packages/apps/Browser" name="android_packages_apps_Browser" />
   <project path="packages/apps/Calendar" name="android_packages_apps_Calendar" />
-  <project path="packages/apps/Camera2" name="android_packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMBugReport" name="android_packages_apps_CMBugreport" />
