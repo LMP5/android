@@ -125,12 +125,10 @@
   <project path="external/easymock" name="android_external_easymock" />
   <project path="external/ebtables" name="android_external_ebtables" />
   <project path="external/eclipse-basebuilder" name="android_external_eclipse-basebuilder" />
-  <project path="external/eclipse-windowbuilder" name="android_external_eclipse-windowbuilder" />
   <project path="external/elfutils" name="android_external_elfutils" />
   <project path="external/emma" name="android_external_emma" />
   <project path="external/esd" name="android_external_esd" />
   <project path="external/exfat" name="android_external_exfat" />
-  <project path="external/expat" name="android_external_expat" groups="pdk" />
   <project path="external/eyes-free" name="android_external_eyes-free" />
   <project path="external/f2fs-tools" name="android_external_f2fs-tools" />
   <project path="external/fdlibm" name="android_external_fdlibm" />
@@ -139,7 +137,6 @@
   <project path="external/fsck_msdos" name="android_external_fsck_msdos" />
   <project path="external/fuse" name="android_external_fuse" />
   <project path="external/gcc-demangle" name="android_external_gcc-demangle" groups="pdk" />
-  <project path="external/giflib" name="android_external_giflib" />
   <project path="external/google" name="android_external_google" />
   <project path="external/grub" name="android_external_grub" />
   <project path="external/gson" name="android_external_gson" />
@@ -217,7 +214,6 @@
   <project path="external/objenesis" name="platform/external/objenesis" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/okhttp" name="android_external_okhttp" />
   <project path="external/open-vcdiff" name="platform/external/open-vcdiff" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
-  <project path="external/opencv" name="android_external_opencv" />
   <project path="external/openfst" name="android_external_openfst" />
   <project path="external/openssl" name="android_external_openssl" groups="pdk" />
   <project path="external/oprofile" name="android_external_oprofile" />
@@ -225,7 +221,6 @@
   <project path="external/pigz" name="android_external_pigz" />
   <project path="external/pixman" name="platform/external/pixman" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/powertop" name="android_external_powertop" />
-  <project path="external/ppp" name="android_external_ppp" />
   <project path="external/proguard" name="android_external_proguard" groups="pdk-java" />
   <project path="external/protobuf-c" name="android_external_protobuf-c" />
   <project path="external/qemu" name="android_external_qemu" />
@@ -248,7 +243,6 @@
   <project path="external/sqlite" name="android_external_sqlite" groups="pdk" />
   <project path="external/square/dagger" name="android_external_square_dagger" />
   <project path="external/square/javawriter" name="android_external_square_javawriter" />
-  <project path="external/srec" name="android_external_srec" />
   <project path="external/srtp" name="android_external_srtp" />
   <project path="external/stagefright-plugins" name="android_external_stagefright-plugins" />
   <project path="external/stlport" name="android_external_stlport" groups="pdk" />
