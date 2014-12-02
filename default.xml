@@ -4,6 +4,9 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com" />
+           
+   <remote  name="LMP5"
+           fetch="https://github.com/LMP5/" />        
 
   <remote  name="github"
            fetch=".."
