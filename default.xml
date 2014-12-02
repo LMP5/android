@@ -124,7 +124,6 @@
   <project path="external/easymock" name="android_external_easymock" />
   <project path="external/ebtables" name="android_external_ebtables" />
   <project path="external/eclipse-basebuilder" name="android_external_eclipse-basebuilder" />
-  <project path="external/elfutils" name="android_external_elfutils" />
   <project path="external/emma" name="android_external_emma" />
   <project path="external/esd" name="android_external_esd" />
   <project path="external/exfat" name="android_external_exfat" />
@@ -195,7 +194,6 @@
   <project path="external/markdown" name="android_external_markdown" />
   <project path="external/mesa3d" name="platform/external/mesa3d" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/mksh" name="android_external_mksh" groups="pdk" />
-  <project path="external/mp4parser" name="android_external_mp4parser" />
   <project path="external/nano" name="android_external_nano" />
   <project path="external/naver-fonts" name="android_external_naver-fonts" />
   <project path="external/netcat" name="android_external_netcat" />
@@ -301,7 +299,6 @@
   <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" groups="caf" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" />
   <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" groups="qcom" />
-  <project path="hardware/qcom/display-caf-new" name="android_hardware_qcom_display-caf-new" groups="caf" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" groups="qcom" />
