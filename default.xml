@@ -58,7 +58,6 @@
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
-  <project path="device/sample" name="android_device_sample" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/aac" name="android_external_aac" groups="pdk" />
   <project path="external/android-mock" name="android_external_android-mock" />
@@ -113,7 +112,6 @@
   <project path="external/dexmaker" name="android_external_dexmaker" />
   <project path="external/dhcpcd" name="android_external_dhcpcd" />
   <project path="external/dnsmasq" name="android_external_dnsmasq" groups="pdk" />
-  <project path="external/doclava" name="android_external_doclava" />
   <project path="external/dropbear" name="android_external_dropbear" />
   <project path="external/droiddriver" name="platform/external/droiddriver" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" groups="pdk" />
@@ -171,7 +169,6 @@
   <project path="external/libusb-compat" name="android_external_libusb-compat" />
   <project path="external/libssh2" name="platform/external/libssh2" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/libvorbis" name="android_external_libvorbis" />
-  <project path="external/libvpx" name="android_external_libvpx" groups="pdk" />
   <project path="external/libxml2" name="android_external_libxml2" />
   <project path="external/libxslt" name="android_external_libxslt" />
   <project path="external/linux-tools-perf" name="android_external_linux-tools-perf" />
