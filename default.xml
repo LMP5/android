@@ -63,10 +63,7 @@
   <project path="external/ant-wireless/ant_native" name="android_external_ant-wireless_ant_native" />
   <project path="external/ant-wireless/ant_service" name="android_external_ant-wireless_ant_service" />
   <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" />
-  <project path="external/apache-harmony" name="android_external_apache-harmony" />
-  <project path="external/arduino" name="android_external_arduino" />
   <project path="external/bash" name="android_external_bash" />
-  <project path="external/blktrace" name="android_external_blktrace" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" groups="pdk" />
   <project path="external/bouncycastle" name="android_external_bouncycastle" />
   <project path="external/bson" name="android_external_bson" />
@@ -102,7 +99,6 @@
   <project path="external/connectivity" name="android_external_connectivity" />
   <project path="external/crda" name="android_external_crda" />
   <project path="external/curl" name="android_external_curl" />
-  <project path="external/dexmaker" name="android_external_dexmaker" />
   <project path="external/dhcpcd" name="android_external_dhcpcd" />
   <project path="external/dnsmasq" name="android_external_dnsmasq" groups="pdk" />
   <project path="external/dropbear" name="android_external_dropbear" />
@@ -194,9 +190,7 @@
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/tinyalsa" name="android_external_tinyalsa" groups="pdk" />
   <project path="external/tinycompress" name="android_external_tinycompress" groups="pdk" />
-  <project path="external/tremolo" name="android_external_tremolo" groups="pdk" />
   <project path="external/vim" name="android_external_vim" />
-  <project path="external/webp" name="android_external_webp" />
   <project path="external/whispersystems/TextSecure" name="android_external_whispersystems_TextSecure" />
   <project path="external/whispersystems/WhisperPush" name="android_external_whispersystems_WhisperPush" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" groups="pdk" />
