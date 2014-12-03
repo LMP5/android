@@ -29,7 +29,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="android_build" remote="LMP5" revision="LMP5-5.0" groups="pdk" >
+  <project path="build" name="android_build" remote="lmp5" revision="LMP5-5.0" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
