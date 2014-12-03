@@ -12,7 +12,7 @@
            fetch="https://github.com/LMP5/" /> 
            
   <remote name="Team-Hydra"         
-           fetch="https://github.com/Team-Hydra"
+           fetch="https://github.com/Team-Hydra" />
 
   <remote  name="github"
            fetch=".."
