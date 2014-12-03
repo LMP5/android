@@ -80,13 +80,9 @@
   <project path="device/samsung/d710" name="Team-Hydra/android_device_samsung_d710" />
   <project path="device/samsung/galaxys2-common" name="Team-Hydra/android_device_samsung_galaxys2-common" />
   <project path="device/samsung/jflte" name="Team-Hydra/android_device_samsung_jflte" />
-  <project path="device/samsung/klte" name="LMP5/android_device_samsung_klte" />
   <project path="device/samsung/kltedv" name="Team-Hydra/android_device_samsung_kltedv" />
-  <project path="device/samsung/kltespr" name="LMP5/android_device_samsung_kltespr" />
   <project path="device/samsung/klteusc" name="Team-Hydra/android_device_samsung_klteusc" />
-  <project path="device/samsung/klte-common" name="LMP5/android_device_samsung_klte-common" />
   <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" />
-  <project path="device/samsung/msm8974-common" name="LMP5/android_device_samsung_msm8974-common" />
   <project path="device/samsung/qcom-common" name="LMP5/android_device_samsung_qcom-common" />
   <project path="device/qcom/common" name="LMP5/android_device_qcom_common" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
@@ -558,4 +554,8 @@
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
   
   <!--LMP5 Additions-->
+  <project path="device/samsung/klte-common" name="android_device_samsung_klte-common" remote="LMP5" revision="LMP-5.0" />
+  <project path="device/samsung/kltespr" name="android_device_samsung_kltespr" remote="LMP5 revision="LMP5-5.0" />
+  <project path="device/samsung/msm8974-common" name="android_device_samsung_msm8974-common" remote="LMP5" revision="LMP5-5.0" />
+  <project path="kernel/samsung/klte" name="android_kernel_samsung_klte" remote="LMP5" revision="LMP5-5.0" />
 </manifest>
