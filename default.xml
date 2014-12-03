@@ -14,7 +14,7 @@
   <remote name="Team-Hydra"         
            fetch="https://github.com/Team-Hydra" />
            
-  <remote name="cyanogenmod"
+  <remote name="CyanogenMod"
            fetch="https://github.com/CyanogenMod" />
 
   <remote  name="github"
