@@ -9,8 +9,10 @@
            fetch="https://github.com/TheMuppets/" />
            
   <remote  name="LMP5"
-           fetch="https://github.com/LMP5/" />        
-         
+           fetch="https://github.com/LMP5/" /> 
+           
+  <remote name="Team-Hydra"         
+           fetch="https://github.com/Team-Hydra"
 
   <remote  name="github"
            fetch=".."
