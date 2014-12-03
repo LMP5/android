@@ -77,15 +77,15 @@
   <project path="device/samsung/d710" name="Team-Hydra/android_device_samsung_d710" />
   <project path="device/samsung/galaxys2-common" name="Team-Hydra/android_device_samsung_galaxys2-common" />
   <project path="device/samsung/jflte" name="Team-Hydra/android_device_samsung_jflte" />
-  <project path="device/samsung/klte" name="Team-Hydra/android_device_samsung_klte" />
+  <project path="device/samsung/klte" name="LMP5/android_device_samsung_klte" />
   <project path="device/samsung/kltedv" name="Team-Hydra/android_device_samsung_kltedv" />
-  <project path="device/samsung/kltespr" name="Team-Hydra/android_device_samsung_kltespr" />
+  <project path="device/samsung/kltespr" name="LMP5/android_device_samsung_kltespr" />
   <project path="device/samsung/klteusc" name="Team-Hydra/android_device_samsung_klteusc" />
-  <project path="device/samsung/klte-common" name="Team-Hydra/android_device_samsung_klte-common" />
+  <project path="device/samsung/klte-common" name="LMP5/android_device_samsung_klte-common" />
   <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" />
-  <project path="device/samsung/msm8974-common" name="CyanogenMod/android_device_samsung_msm8974-common" />
-  <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
-  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
+  <project path="device/samsung/msm8974-common" name="LMP5/android_device_samsung_msm8974-common" />
+  <project path="device/samsung/qcom-common" name="LMP5/android_device_samsung_qcom-common" />
+  <project path="device/qcom/common" name="LMP5/android_device_qcom_common" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" groups="pdk" />
@@ -405,7 +405,7 @@
   <project path="kernel/htc/msm8960" name="Team-Hydra/android_kernel_htc_msm8960" />
   <project path="kernel/samsung/smdk4412" name="Team-Hydra/android_kernel_samsung_smdk4412" />
   <project path="kernel/samsung/jf" name="Team-Hydra/android_kernel_samsung_jf" />
-  <project path="kernel/samsung/klte" name="Team-Hydra/android_kernel_samsung_klte" />
+  <project path="kernel/samsung/klte" name="LMP5/android_kernel_samsung_klte" />
   <project path="kernel/samsung/Ramdisks" name="Team-Hydra/SGS4-RAMDISKS" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" groups="pdk-java" />
