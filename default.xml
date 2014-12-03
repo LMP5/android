@@ -35,8 +35,6 @@
 
   <project path="android" name="android" remote="LMP5" revision="LMP5-5.0" groups="pdk" />
 
-  <project path="abi/cpp" name="android_abi_cpp" groups="pdk" />
-  <project path="bootable/recovery" name="android_bootable_recovery" />
   
   <!--LMP5 Additions-->
   <project path="packages/wallpapers/SlothWalls" name="packages_wallpapers_SlothWalls" remote="LMP5" revision="LMP5-5.0" />
