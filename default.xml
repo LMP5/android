@@ -33,8 +33,6 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="android" remote="LMP5" revision="LMP5-5.0" groups="pdk" />
-
   
   <!--LMP5 Additions-->
   <project path="packages/wallpapers/SlothWalls" name="packages_wallpapers_SlothWalls" remote="LMP5" revision="LMP5-5.0" />
