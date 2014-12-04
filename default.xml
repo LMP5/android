@@ -557,4 +557,6 @@
   <project path="device/samsung/kltespr" name="android_device_samsung_kltespr" remote="LMP5" revision="LMP5-5.0" />
   <project path="device/samsung/msm8974-common" name="android_device_samsung_msm8974-common" remote="LMP5" revision="LMP5-5.0" />
   <project path="kernel/samsung/klte" name="android_kernel_samsung_klte" remote="LMP5" revision="LMP5-5.0" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" groups="linux,arm" remote="aosp" revision="refs/tags/android-4.4w_r1" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" groups="linux,arm" remote="aosp" revision="refs/tags/android-4.4w_r1" />
 </manifest>
