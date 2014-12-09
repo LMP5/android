@@ -15,11 +15,11 @@
            fetch="https://github.com/CyanogenMod" />
 
   <remote  name="github"
-           fetch="."
+           fetch=".."
            review="review.cyanogenmod.org" />
            
   <remote  name="cm"
-           fetch="."
+           fetch=".."
            review="review.cyanogenmod.org" />
 
   <remote  name="private"
