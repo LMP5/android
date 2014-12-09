@@ -22,7 +22,7 @@
            review="review.cyanogenmod.org" />
            
   <remote  name="cm"
-           fetch=".."
+           fetch="-"
            review="review.cyanogenmod.org" />
 
   <remote  name="private"
