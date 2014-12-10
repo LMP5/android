@@ -10,10 +10,7 @@
            
   <remote  name="LMP5"
            fetch="https://github.com/LMP5/" /> 
-          
-  <remote name="cyanogenmod"
-           fetch="https://github.com/" />
-           
+
   <remote  name="cm"
            fetch=".."
            review="review.cyanogenmod.org" />
