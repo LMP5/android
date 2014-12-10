@@ -37,38 +37,37 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
-  <project path="art" name="CyanogenMod/android_art" />
-  <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
-  <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
-  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
-  <project path="bootable/recovery-cm" name="CyanogenMod/android_bootable_recovery-cm" />
+  <project path="abi/cpp" name="android_abi_cpp" groups="pdk" />
+  <project path="art" name="android_art" />
+  <project path="bionic" name="android_bionic" groups="pdk" />
+  <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" />
+  <project path="bootable/recovery" name="android_bootable_recovery" />
+  <project path="bootable/recovery-cm" name="android_bootable_recovery-cm" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-5.0.1_r1" groups="cts" />
-  <project path="dalvik" name="CyanogenMod/android_dalvik" />
+  <project path="dalvik" name="android_dalvik" />
   <project path="developers/build" name="platform/developers/build" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" revision="refs/tags/android-5.0.1_r12" />
   <project path="developers/docs" name="platform/developers/docs" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
-  <project path="development" name="CyanogenMod/android_development" />
-  <project path="device/asus/flo" name="Team-Hydra/android_device_asus_flo" />
-  <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" groups="pdk" />
-  <project path="device/generic/common" name="CyanogenMod/android_device_generic_common" groups="pdk" />
-  <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" groups="pdk" />
-  <project path="device/generic/mips" name="CyanogenMod/android_device_generic_mips" groups="pdk" />
-  <project path="device/generic/x86" name="CyanogenMod/android_device_generic_x86" groups="pdk" />
+  <project path="development" name="android_development" />
+  <project path="device/asus/flo" name="android_device_asus_flo" />
+  <project path="device/common" name="android_device_common" />
+  <project path="device/generic/armv7-a-neon" name="android_device_generic_armv7-a-neon" groups="pdk" />
+  <project path="device/generic/common" name="android_device_generic_common" groups="pdk" />
+  <project path="device/generic/goldfish" name="android_device_generic_goldfish" groups="pdk" />
+  <project path="device/generic/mips" name="android_device_generic_mips" groups="pdk" />
+  <project path="device/generic/x86" name="android_device_generic_x86" groups="pdk" />
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
-  <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" groups="device" />
-  <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
-  <project path="device/htc/s4-common" name="Team-Hydra/android_device_htc_s4-common" />
+  <project path="device/google/accessory/arduino" name="android_device_google_accessory_arduino" groups="device" />
+  <project path="device/google/accessory/demokit" name="android_device_google_accessory_demokit" groups="device" />
   <project path="device/samsung/kltedv" name="Team-Hydra/android_device_samsung_kltedv" />
   <project path="device/samsung/klteusc" name="Team-Hydra/android_device_samsung_klteusc" />
-  <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" />
+  <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" />
   <project path="device/samsung/qcom-common" name="LMP5/android_device_samsung_qcom-common" />
-  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
-  <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
+  <project path="device/qcom/common" name="android_device_qcom_common" />
+  <project path="device/sample" name="android_device_sample" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="external/aac" name="android_external_aac" groups="pdk" />
   <project path="external/android-clat" name="android_external_android-clat" />
@@ -77,8 +76,8 @@
   <project path="external/ant-glob" name="android_external_ant-glob" />
   <project path="external/ant-wireless/ant_native" name="android_external_ant-wireless_ant_native" />
   <project path="external/ant-wireless/ant_service" name="android_external_ant-wireless_ant_service" />
-  <project path="external/ant-wireless/antradio-library" name="CyanogenMod/android_external_ant-wireless_antradio-library" />
-  <project path="external/antlr" name="CyanogenMod/android_external_antlr" />
+  <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" />
+  <project path="external/antlr" name="android_external_antlr" />
   <project path="external/apache-harmony" name="android_external_apache-harmony" />
   <project path="external/apache-http" name="Candroid_external_apache-http" />
   <project path="external/apache-qp" name="android_external_apache-qp" />
