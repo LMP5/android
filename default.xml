@@ -11,9 +11,6 @@
   <remote  name="LMP5"
            fetch="https://github.com/LMP5/" /> 
            
-  <remote name="CyanogenMod"
-           fetch="https://github.com/CyanogenMod" />
-
   <remote  name="github"
            fetch=".."
            review="review.cyanogenmod.org" />
@@ -21,6 +18,9 @@
   <remote  name="cm"
            fetch=".."
            review="review.cyanogenmod.org" />
+           
+  <remote  name="cyngn"
+           fetch="git://github.com/cyngn/" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
