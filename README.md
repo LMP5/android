@@ -6,3 +6,12 @@ Initialize the Repo
 repo init -u git://github.com/LMP5/android.git -b LMP5-5.0
 
 repo sync
+
+TO BUILD
+
+. build/envsetup.sh
+
+lunch
+
+make bacon -j#
+
