@@ -23,8 +23,8 @@
            sync-c="true"
            sync-j="8" />
 
-  <project path="build" name="android_build" remote="LMP5" revision="LMP5-5.0" groups="pdk" >
-    <copyfile src="core/root.mk" dest="Makefile" />
+  <project path="build" name="CyanogenMod/android_build" groups="pdk" > 
+    <copyfile src="core/root.mk" dest="Makefile" /> 
   </project>
 
   <project path="android" name="CyanogenMod/android" />
