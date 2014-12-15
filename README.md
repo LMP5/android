@@ -13,5 +13,7 @@ TO BUILD
 
 lunch
 
+enter the number of the device you like to build
+
 make bacon -j#
 
