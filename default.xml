@@ -560,6 +560,7 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
+  <project path="vendor/cm" name="android_vendor_cm" />
   
     <!--LMP5 Additions-->
   <project path="device/samsung/klte-common" name="android_device_samsung_klte-common" remote="LMP5" revision="LMP5-5.0" />
@@ -568,5 +569,4 @@
   <project path="kernel/samsung/klte" name="android_kernel_samsung_klte" remote="LMP5" revision="LMP5-5.0" />
   <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="LMP5" revision="LMP5-5.0" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-12.0" />
-  <project path="vendor/cm" name="android_vendor_cm" remote="LMP5" revision="LMP5-5.0" />
 </manifest>
