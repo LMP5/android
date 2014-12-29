@@ -563,7 +563,7 @@
   
   <!--LMP5 Additions-->
   <project path="vendor/cm" name="android_vendor_cm" remote="LMP5" revision="LMP5-5.0" />
-  <project path="packages/apps/SlothWalls" name="packages_wallpapers_SlothWalls" remote="LMP5" revision="LMP5-5.0" />  
+  <project path="packages/wallpapers/SlothWalls" name="packages_wallpapers_SlothWalls" remote="LMP5" revision="LMP5-5.0" />  
   <project path="device/samsung/klte-common" name="CyanogenMod/android_device_samsung_klte-common" />
   <project path="device/samsung/kltespr" name="CyanogenMod/android_device_samsung_kltespr" />
   <project path="device/samsung/msm8974-common" name="CyanogenMod/android_device_samsung_msm8974-common" />
