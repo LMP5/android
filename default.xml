@@ -564,9 +564,9 @@
   <project path="device/samsung/kltespr" name="CyanogenMod/android_device_samsung_kltespr" />
   <project path="device/samsung/msm8974-common" name="CyanogenMod/android_device_samsung_msm8974-common" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
+  <project path="vendor/cm" name="android_vendor_cm" />
   
   <!--LMP5 Additions-->
-  <project path="vendor/cm" name="android_vendor_cm" remote="LMP5" revision="LMP5-5.0" />
   <project path="packages/wallpapers/SlothWalls" name="packages_wallpapers_SlothWalls" remote="LMP5" revision="LMP5-5.0" />  
   <project path="kernel/samsung/klte" name="android_kernel_samsung_klte" remote="LMP5" revision="LMP5-5.0" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-12.0" />
