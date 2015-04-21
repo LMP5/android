@@ -594,6 +594,7 @@
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
   
   <!--LMP5 Additions-->
-  <project path="packages/wallpapers/SlothWalls" name="packages_wallpapers_SlothWalls" remote="LMP5" revision="LMP5-5.1" />  
+  <project path="packages/wallpapers/SlothWalls" name="packages_wallpapers_SlothWalls" remote="LMP5" revision="LMP5-5.1" /> 
+  <project path="device/samsung/kltespr" name="device_samsung_kltespr" remote="LMP5" revision="LMP5-5.1" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-12.1" />
 </manifest>
