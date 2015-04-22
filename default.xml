@@ -594,6 +594,7 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
   
   <!--LMP5 Additions-->
+  <project path="kernel/samsung/klte" name="android_kernel_samsung_klte" remote="LMP5" revision="LMP5-5.1" />
   <project path="vendor/cm" name="android_vendor_cm" remote="LMP5" revision="LMP5-5.1" /> 
   <project path="packages/wallpapers/SlothWalls" name="packages_wallpapers_SlothWalls" remote="LMP5" revision="LMP5-5.1" /> 
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-12.1" />
