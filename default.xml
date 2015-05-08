@@ -592,6 +592,10 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" />
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" remote="aosp" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
+  <project path="device/motorola/msm8960-common" name="android_device_motorola_msm8960-common" remote="LMP5" revision="LMP5-5.1" />
+  <project path="device/motorola/qcom-common" name="android_device_motorola_qcom-common" remote="LMP5" revision="LMP5-5.1" />
+  <project path="device/moto/shamu" name="android_device_moto_shamu" remote="LMP5" revision="LMP5-5.1" />
+  <project path="kernel/moto/shamu" name="android_kernel_moto_shamu" remote="LMP5" revision="LMP5-5.1" />
   <project path="kernel/samsung/klte" name="android_kernel_samsung_klte" remote="LMP5" revision="LMP5-5.1" />
   <project path="device/samsung/msm8974-common" name="android_device_samsung_msm8974-common" remote="LMP5" revision="LMP5-5.1" />
   <project path="device/samsung/kltespr" name="android_device_samsung_kltespr" remote="LMP5" revision="LMP5-5.1" />
@@ -604,5 +608,6 @@
   <!--LMP5 Additions-->
   <project path="vendor/cm" name="android_vendor_cm" remote="LMP5" revision="LMP5-5.1" /> 
   <project path="packages/wallpapers/SlothWalls" name="packages_wallpapers_SlothWalls" remote="LMP5" revision="LMP5-5.1" /> 
+  <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="tm" revision="cm-12.1" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-12.1" />
 </manifest>
